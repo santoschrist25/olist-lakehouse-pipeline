@@ -1,0 +1,10 @@
+#Ignore large dataset folders
+data/
+
+#ignore Python virtual environments and cache
+.ven/
+__pycache__/
+
+#Ignore environment secrets & OS Junk
+.env 
+.DS_Store
